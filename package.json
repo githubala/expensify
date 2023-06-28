@@ -23,6 +23,7 @@
     "react-redux": "^8.1.0",
     "react-router-dom": "^6.12.1",
     "redux": "^4.2.1",
+    "uuid": "^9.0.0",
     "webpack": "^5.86.0",
     "webpack-dev-server": "^4.15.1"
   },
